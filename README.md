@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Luci!
-- 👀 I’m interested in nerd stuff, reptiles and marijuana.
+- 👋 Hi, my name is Lucian!
+- 👀 I like programming, lizards, green, and things that go vroom loudly.
 - 🌱 I’m currently learning C++, HTML, JS, CSS, graphic design/character design, music production, the whole nine yards.
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her 🏳️‍⚧️
 
 <!---
 lucian-hellspawngames/lucian-hellspawngames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
