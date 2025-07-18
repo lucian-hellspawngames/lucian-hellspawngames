@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Lucian!
-- 👀 I like programming, lizards, green, and things that go vroom loudly.
+- 👀 I like programming, lizards, and things that go vroom loudly.
 - 🌱 I’m currently learning C++, HTML, JS, CSS, graphic design/character design, music production, the whole nine yards.
 - 😄 Pronouns: She/Her 🏳️‍⚧️
 
